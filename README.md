@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nit4r4
-- 👀 I’m interested in : a lot of things 
-- 🌱 I’m currently learning : C and JS
+- 👀 I’m interested in : too much things !
+- 🌱 I’m currently learning : C, html, css, JS, ...
 - 💞️ I’m looking to collaborate : to help each other
 - - 📫 How to reach me : by e-mail
 
