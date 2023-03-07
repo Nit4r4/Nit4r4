@@ -2,7 +2,6 @@
  
 <div id="header" align="center">
   <img src="https://tenor.com/fr/view/nitara-mortal-kombat-vampire-tampire-tam-gif-16946916" width="450"/>
-  //<img src="https://media.giphy.com/media/gRb1341rklANq/giphy.gif" width="400"/>
 </div>
 
 - 👋 Hi, I’m Nit4r4
