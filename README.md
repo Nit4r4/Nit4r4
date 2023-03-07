@@ -1,7 +1,7 @@
 <p align="center"> F4t4lity 🕹💀
  
 <div id="header" align="center">
-  <img src="https://media.tenor.com/ek5pAuD4O6YAAAAd/nitara-mortal-kombat.gif" width="450"/>
+  <img src="https://media.tenor.com/h34OIBMoW30AAAAd/nitara-mortal-kombat.gif" 350"/>
 </div>
 
 - 👋 Hi, I’m Nit4r4
