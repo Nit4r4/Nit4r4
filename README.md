@@ -1,10 +1,10 @@
 <p align="center"> F4t4lity 🕹💀
  
 <div id="header" align="center">
-  <img src="https://media.tenor.com/h34OIBMoW30AAAAd/nitara-mortal-kombat.gif" width="150"/>
+  <img src="https://media.tenor.com/h34OIBMoW30AAAAd/nitara-mortal-kombat.gif" width="250"/>
 </div>
 
-<p align="center"> - 👋 Hi, I’m Nit4r4
+- 👋 Hi, I’m Nit4r4
 - 👀 I’m interested in : Coding, Design, Health, and so more...
 - 🧠 I’m currently learning : C, C++, html, CSS, JS, ... @home & @[42](www.42lausanne.ch)
 - 📫 How to reach me : You've got a lot of info here : [Linkedin](https://www.linkedin.com/in/verena-ferraro/)
