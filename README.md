@@ -2,7 +2,7 @@
  
 <div id="header" align="center">
   <img src="https://media.tenor.com/h34OIBMoW30AAAAd/nitara-mortal-kombat.gif" width="250"/>
-  <img src="https://media.tenor.com/RwHExfj1PZ0AAAAd/balavoine-touslescrislessos.gif" width="250"/> 
+  <img src="https://media.tenor.com/RwHExfj1PZ0AAAAd/balavoine-touslescrislessos.gif" width="350"/> 
 </div>
 
 - 👋 Hi, I’m Nit4r4
