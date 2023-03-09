@@ -6,7 +6,7 @@
 </div>
 <br>
 <br>
-<p align="center"> 4BOUT ME 👩🏻‍💻🦇
+<p align="center"> 4BOUT ME 👩🏻‍💻🦇 </p>
 <br>
 - 👋 Hi, I’m Nit4r4
 - 👀 I’m interested in : Coding, Design, Health, and so more...
@@ -16,12 +16,11 @@
 - 💞️ Caring is sharing : You can check my notion page. I made a lot of research for each work : [Nitara's Notion](https://nitara.notion.site/246c98fcb09e4bcb894d227c97856f20?v=7f0f84336dfc4840aedd7a4148b4a037)
 <br>
 <br>
-<p align="center"> ST4TS ℹ️📈
+<p align="center"> ST4TS ℹ️📈 </p>
 <br>
 <div <p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nit4r4&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-<p align="center"> 
  <div[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nit4r4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </div>
 
 <!---
