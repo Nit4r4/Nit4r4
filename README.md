@@ -18,10 +18,9 @@
 <br>
 <p align="center"> ST4TS ℹ️📈 </p>
 <br>
-<div <p align="center"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nit4r4&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nit4r4&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
- <div[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nit4r4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nit4r4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Nit4r4/Nit4r4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
