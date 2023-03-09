@@ -7,7 +7,7 @@
 <br>
 <br>
 <p align="center"> 4BOUT ME 👩🏻‍💻🦇 </p>
-<br>
+
 
 - 👋 Hi, I’m Nit4r4
 - 👀 I’m interested in : Coding, Design, Health, and so more...
@@ -20,7 +20,7 @@
 <br>
 <br>
 <p align="center"> ST4TS ℹ️📈 </p>
-<br>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nit4r4&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
