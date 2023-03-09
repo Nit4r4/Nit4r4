@@ -22,10 +22,10 @@
 <p align="center"> ST4TS ℹ️📈 </p>
 <br>
 
-<div id="stats" align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nit4r4&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<div id="stats2" align="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nit4r4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
