@@ -24,9 +24,12 @@
 
 <div id="stats" align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nit4r4&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<div id="stats2" align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nit4r4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
 
 <!---
 Nit4r4/Nit4r4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
