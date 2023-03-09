@@ -1,9 +1,11 @@
-<p align="center"> F4t4lity 🕹💀
+<p align="center"> F4T4LITY 🕹💀
  
 <div id="header" align="center">
   <img src="https://media.tenor.com/h34OIBMoW30AAAAd/nitara-mortal-kombat.gif" width="250"/>
   <img src="https://media.tenor.com/RwHExfj1PZ0AAAAd/balavoine-touslescrislessos.gif" width="450"/> 
 </div>
+
+<p align="center"> 4BOUT ME 👩🏻‍💻🦇
 
 - 👋 Hi, I’m Nit4r4
 - 👀 I’m interested in : Coding, Design, Health, and so more...
@@ -13,7 +15,9 @@
 - 💞️ Caring is sharing : You can check my notion page. I made a lot of research for each work : [Nitara's Notion](https://nitara.notion.site/246c98fcb09e4bcb894d227c97856f20?v=7f0f84336dfc4840aedd7a4148b4a037)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nit4ra&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> ST4TS ℹ️📈
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nit4r4&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nit4r4&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
