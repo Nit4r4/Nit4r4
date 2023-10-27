@@ -1,8 +1,8 @@
 <p align="center"> HELLO 4LL 👋🏻🌍
  
 <div id="header" align="center">
-  <img src="https://tenor.com/fr/view/coding-gif-25183725" width="250"/>
-  <img src="https://tenor.com/fr/view/coding-gif-25183725" width="450"/> 
+  <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" width="250"/>
+  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="450"/> 
 </div>
 <br>
 <br>
