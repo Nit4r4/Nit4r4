@@ -1,8 +1,7 @@
 <p align="center"> HELLO 4LL 👋🏻🌍
  
 <div id="header" align="center">
-  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="250"/> 
-  <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" width="250"/>
+  <img src="https://media.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" width="450"/> 
 </div>
 <br>
 <br>
@@ -37,6 +36,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="45" height="45"/>
 </p>
 
+<br>
+
+<div align="center">
+ <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" width="450"/> 
+</div>
 
 <br>
 <br>
