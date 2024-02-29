@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Nit4r4
 - 👀 I’m interested in : Coding, Design, Health, and so more...
-- 🧠 I’m currently learning : C, C++, html, CSS, JS, React, ... @home & @[42](www.42lausanne.ch)
+- 🧠 I’m currently learning : C, C++, html, CSS, JS, React, Python, Bootsrtap, Django, ... @[42](www.42lausanne.ch)
 - 📫 How to reach me : You've got a lot of info here : [Linkedin](https://www.linkedin.com/in/verena-ferraro/)
 - 👩🏻‍💻 Website : [infoxgraphisme.com](https://www.infoxgraphisme.com/)
 - 💞️ Caring is sharing : You can check my notion page. I made a lot of research for each work : [Nitara's Notion](https://nitara.notion.site/246c98fcb09e4bcb894d227c97856f20?v=7f0f84336dfc4840aedd7a4148b4a037)
